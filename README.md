@@ -1,2 +1,2 @@
-# niu-cs503-2026fa
-Data for the Fall 2026 NIU CSCI 503 class
+# CSCI 503 (Fall 2026) at Northern Illinois University
+This repository contains data files for use with assignments.
